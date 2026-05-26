@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvecrypt",
+        "uuid": 4127912,
+        "checksum": "vzg04"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
